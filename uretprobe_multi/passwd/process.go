@@ -1,6 +1,6 @@
 //go:build linux
 
-package uprobe
+package passwd
 
 import (
 	"bytes"

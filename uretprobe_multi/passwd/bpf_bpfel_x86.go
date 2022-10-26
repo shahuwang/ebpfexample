@@ -2,7 +2,7 @@
 //go:build 386 || amd64
 // +build 386 amd64
 
-package uprobe
+package passwd
 
 import (
 	"bytes"

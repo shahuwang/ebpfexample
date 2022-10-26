@@ -1,6 +1,6 @@
 //go:build linux
 
-package uretprobe
+package readline
 
 import (
 	"bytes"
