@@ -21,6 +21,17 @@ type bpfEvent struct {
 	E int32
 	F int32
 	G int32
+	H int32
+	I int32
+	J int32
+	K int32
+	L int32
+	M int32
+	N int32
+	O int32
+	P int32
+	Q int32
+	W int32
 }
 
 // loadBpf returns the embedded CollectionSpec for bpf.
